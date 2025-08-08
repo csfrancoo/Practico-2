@@ -1,0 +1,29 @@
+body{
+    background-color:blue 
+
+}
+h1{
+    text-align: center;
+}
+div{
+    text-align: center;
+}
+button{
+    width: 200px;
+    height: 40px;
+}
+/*una clase se selecciona con un punto*/
+.verde{
+    background-color: green;
+    color: white;
+}
+.rojo{
+    background-color: red;
+    color: white;
+}
+.botones{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin: 25px;
+}
