@@ -16,14 +16,21 @@ button{
 .verde{
     background-color: green;
     color: white;
+    margin-left: 25px;
 }
 .rojo{
     background-color: red;
     color: white;
+    margin-left: 25px;
 }
 .botones{
     display: flex;
     flex-direction: row;
     justify-content: center;
     margin: 25px;
+}
+.Salir{
+    background-color: blue;
+    margin-left: 25px;
+    color: white;
 }
